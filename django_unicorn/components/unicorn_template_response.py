@@ -40,6 +40,10 @@ EMPTY_ELEMENTS = (
     "<source>",
     "<track>",
     "<wbr>",
+    "<xml>",
+    "<noscript>",
+    "<o>",
+    "<head>",
 )
 
 
